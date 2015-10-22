@@ -1,0 +1,23 @@
+name: GridBlog
+favicon: null
+layout_spectrum: 0.07257695170119405
+typography_spectrum: 0.6720506481360644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.06212434312328696
+  lightness: 0.8610898011829704
+  saturation: 0.018507834989577532
+  rhythmicContrast: 0.8958119933959097
+purpose: []
